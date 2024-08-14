@@ -21,3 +21,10 @@ run opiran optimizer to install all necessary packages.
 ```
 apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/optimizer.sh --ipv4)
 ```
+---------------------------------------------------------------------------------------------------------------------------------------
+
+### Credits
+ - credited by [OPIran](https://github.com/opiran-club)
+
+### Contacts
+ - Visit Me at [OPIran-Gap](https://t.me/opiranclub)
