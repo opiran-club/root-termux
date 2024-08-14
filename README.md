@@ -1,3 +1,6 @@
+[Farsi readme](https://github.com/opiran-club/root-termux/blob/main/Readme%5Bfa%5D.md)
+[راهنمای فارسی](https://github.com/opiran-club/root-termux/blob/main/Readme%5Bfa%5D.md)
+
 Make termux to root user linux fully automated
 
 run this on termux
